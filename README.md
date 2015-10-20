@@ -1,2 +1,2 @@
-# ghc-in-rust
-The GHC compiler written in Rust
+# ghc-in-r
+The GHC compiler written in [R](https://www.r-project.org/)
